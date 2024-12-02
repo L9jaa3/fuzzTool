@@ -3,8 +3,8 @@ __READ "BLACK HAT PYTHON" BOOK__
 There are more things to learn.
 
 ##To start this tool, you can use... : 
+
 <pre>
-```bash
 python3 fuzzTool.py
 </pre>
 
